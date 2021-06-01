@@ -1,0 +1,16 @@
+c 90
+my own app
+
+want to create a app for my video
+information 
+about app
+what is there 
+this app has been created for enterment,music,dance,etc
+with pictures
+main screen
+show  video icon if click then play in th app
+side drawer
+home 
+logout
+profile
+notification
